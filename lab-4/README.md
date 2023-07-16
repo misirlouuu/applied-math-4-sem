@@ -8,6 +8,6 @@
 $$\begin{equation}
 a_{ij}=
 \begin{cases}
--\sum_{i\neq j}a_{ij} &if\;i>1\\
--\sum_{i\neq j}a_{ij}+10^{-k} &if\;i=1
+-\sum_{i\neq j}a_{ij} &if \; i>1\\
+-\sum_{i\neq j}a_{ij}+10^{-k} &if \; i=1
 \end{cases} \end{equation}$$ 
